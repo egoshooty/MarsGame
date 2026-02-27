@@ -1,0 +1,9 @@
+{
+  "fast_ema_period": 8,
+  "slow_ema_period": 26,
+  "rsi_period": 14,
+  "rsi_buy_threshold": 58,
+  "rsi_sell_threshold": 42,
+  "risk_per_trade": 0.015,
+  "max_position_size": 0.07
+}
